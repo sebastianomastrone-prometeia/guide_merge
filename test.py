@@ -4,5 +4,6 @@
 # ADD feature 2
 # ADD feature 3
 # Feature B ADDED
+# Feature A ADDED
 
 #End of the script
