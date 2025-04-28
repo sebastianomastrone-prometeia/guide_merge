@@ -3,10 +3,7 @@
 # ADD feature 1
 # ADD feature 2
 # ADD feature 3
-<<<<<<< HEAD
 # Feature A ADDED
-=======
 # Feature B ADDED
->>>>>>> feature-b
 
 #End of the script
