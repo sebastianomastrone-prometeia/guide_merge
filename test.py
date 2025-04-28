@@ -3,6 +3,7 @@
 # ADD feature 1
 # ADD feature 2
 # ADD feature 3
+# ADD feature B
 # ADD feature A
 
 #End of the script
